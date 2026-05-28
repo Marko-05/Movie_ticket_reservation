@@ -1,0 +1,398 @@
+[
+  {
+    "Broj": 1,
+    "Status": "Slobodno",
+    "Tip": "Standard",
+    "Cena": 500.0
+  },
+  {
+    "Broj": 2,
+    "Status": "Slobodno",
+    "Tip": "Standard",
+    "Cena": 500.0
+  },
+  {
+    "Broj": 3,
+    "Status": "Slobodno",
+    "Tip": "Standard",
+    "Cena": 500.0
+  },
+  {
+    "Broj": 4,
+    "Status": "Slobodno",
+    "Tip": "Standard",
+    "Cena": 500.0
+  },
+  {
+    "Broj": 5,
+    "Status": "Slobodno",
+    "Tip": "Standard",
+    "Cena": 500.0
+  },
+  {
+    "Broj": 6,
+    "Status": "Slobodno",
+    "Tip": "Standard",
+    "Cena": 500.0
+  },
+  {
+    "Broj": 7,
+    "Status": "Slobodno",
+    "Tip": "Standard",
+    "Cena": 500.0
+  },
+  {
+    "Broj": 8,
+    "Status": "Slobodno",
+    "Tip": "Standard",
+    "Cena": 500.0
+  },
+  {
+    "Broj": 9,
+    "Status": "Slobodno",
+    "Tip": "Standard",
+    "Cena": 500.0
+  },
+  {
+    "Broj": 10,
+    "Status": "Slobodno",
+    "Tip": "Standard",
+    "Cena": 500.0
+  },
+  {
+    "Broj": 11,
+    "Status": "Slobodno",
+    "Tip": "Standard",
+    "Cena": 500.0
+  },
+  {
+    "Broj": 12,
+    "Status": "Slobodno",
+    "Tip": "Standard",
+    "Cena": 500.0
+  },
+  {
+    "Broj": 13,
+    "Status": "Slobodno",
+    "Tip": "Standard",
+    "Cena": 500.0
+  },
+  {
+    "Broj": 14,
+    "Status": "Slobodno",
+    "Tip": "Standard",
+    "Cena": 500.0
+  },
+  {
+    "Broj": 15,
+    "Status": "Slobodno",
+    "Tip": "Standard",
+    "Cena": 500.0
+  },
+  {
+    "Broj": 16,
+    "Status": "Slobodno",
+    "Tip": "Standard",
+    "Cena": 500.0
+  },
+  {
+    "Broj": 17,
+    "Status": "Slobodno",
+    "Tip": "Standard",
+    "Cena": 500.0
+  },
+  {
+    "Broj": 18,
+    "Status": "Slobodno",
+    "Tip": "Standard",
+    "Cena": 500.0
+  },
+  {
+    "Broj": 19,
+    "Status": "Slobodno",
+    "Tip": "Standard",
+    "Cena": 500.0
+  },
+  {
+    "Broj": 20,
+    "Status": "Slobodno",
+    "Tip": "Standard",
+    "Cena": 500.0
+  },
+  {
+    "Broj": 21,
+    "Status": "Slobodno",
+    "Tip": "Standard",
+    "Cena": 500.0
+  },
+  {
+    "Broj": 22,
+    "Status": "Slobodno",
+    "Tip": "Standard",
+    "Cena": 500.0
+  },
+  {
+    "Broj": 23,
+    "Status": "Slobodno",
+    "Tip": "Love",
+    "Cena": 800.0
+  },
+  {
+    "Broj": 24,
+    "Status": "Slobodno",
+    "Tip": "Standard",
+    "Cena": 500.0
+  },
+  {
+    "Broj": 25,
+    "Status": "Slobodno",
+    "Tip": "Standard",
+    "Cena": 500.0
+  },
+  {
+    "Broj": 26,
+    "Status": "Slobodno",
+    "Tip": "Love",
+    "Cena": 800.0
+  },
+  {
+    "Broj": 27,
+    "Status": "Slobodno",
+    "Tip": "Standard",
+    "Cena": 500.0
+  },
+  {
+    "Broj": 28,
+    "Status": "Slobodno",
+    "Tip": "Standard",
+    "Cena": 500.0
+  },
+  {
+    "Broj": 29,
+    "Status": "Slobodno",
+    "Tip": "Standard",
+    "Cena": 500.0
+  },
+  {
+    "Broj": 30,
+    "Status": "Slobodno",
+    "Tip": "Standard",
+    "Cena": 500.0
+  },
+  {
+    "Broj": 31,
+    "Status": "Slobodno",
+    "Tip": "Standard",
+    "Cena": 500.0
+  },
+  {
+    "Broj": 32,
+    "Status": "Slobodno",
+    "Tip": "Standard",
+    "Cena": 500.0
+  },
+  {
+    "Broj": 33,
+    "Status": "Slobodno",
+    "Tip": "Standard",
+    "Cena": 500.0
+  },
+  {
+    "Broj": 34,
+    "Status": "Slobodno",
+    "Tip": "Standard",
+    "Cena": 500.0
+  },
+  {
+    "Broj": 35,
+    "Status": "Slobodno",
+    "Tip": "Standard",
+    "Cena": 500.0
+  },
+  {
+    "Broj": 36,
+    "Status": "Slobodno",
+    "Tip": "Standard",
+    "Cena": 500.0
+  },
+  {
+    "Broj": 37,
+    "Status": "Slobodno",
+    "Tip": "Standard",
+    "Cena": 500.0
+  },
+  {
+    "Broj": 38,
+    "Status": "Slobodno",
+    "Tip": "Standard",
+    "Cena": 500.0
+  },
+  {
+    "Broj": 39,
+    "Status": "Slobodno",
+    "Tip": "Standard",
+    "Cena": 500.0
+  },
+  {
+    "Broj": 40,
+    "Status": "Slobodno",
+    "Tip": "Standard",
+    "Cena": 500.0
+  },
+  {
+    "Broj": 41,
+    "Status": "Slobodno",
+    "Tip": "Love",
+    "Cena": 800.0
+  },
+  {
+    "Broj": 42,
+    "Status": "Slobodno",
+    "Tip": "Standard",
+    "Cena": 500.0
+  },
+  {
+    "Broj": 43,
+    "Status": "Slobodno",
+    "Tip": "Standard",
+    "Cena": 500.0
+  },
+  {
+    "Broj": 44,
+    "Status": "Slobodno",
+    "Tip": "Love",
+    "Cena": 800.0
+  },
+  {
+    "Broj": 45,
+    "Status": "Slobodno",
+    "Tip": "Standard",
+    "Cena": 500.0
+  },
+  {
+    "Broj": 46,
+    "Status": "Slobodno",
+    "Tip": "Standard",
+    "Cena": 500.0
+  },
+  {
+    "Broj": 47,
+    "Status": "Slobodno",
+    "Tip": "VIP",
+    "Cena": 1000.0
+  },
+  {
+    "Broj": 48,
+    "Status": "Slobodno",
+    "Tip": "VIP",
+    "Cena": 1000.0
+  },
+  {
+    "Broj": 49,
+    "Status": "Slobodno",
+    "Tip": "VIP",
+    "Cena": 1000.0
+  },
+  {
+    "Broj": 50,
+    "Status": "Slobodno",
+    "Tip": "VIP",
+    "Cena": 1000.0
+  },
+  {
+    "Broj": 51,
+    "Status": "Slobodno",
+    "Tip": "VIP",
+    "Cena": 1000.0
+  },
+  {
+    "Broj": 52,
+    "Status": "Slobodno",
+    "Tip": "VIP",
+    "Cena": 1000.0
+  },
+  {
+    "Broj": 53,
+    "Status": "Slobodno",
+    "Tip": "VIP",
+    "Cena": 1000.0
+  },
+  {
+    "Broj": 54,
+    "Status": "Slobodno",
+    "Tip": "VIP",
+    "Cena": 1000.0
+  },
+  {
+    "Broj": 55,
+    "Status": "Slobodno",
+    "Tip": "VIP",
+    "Cena": 1000.0
+  },
+  {
+    "Broj": 56,
+    "Status": "Slobodno",
+    "Tip": "VIP",
+    "Cena": 1000.0
+  },
+  {
+    "Broj": 57,
+    "Status": "Slobodno",
+    "Tip": "VIP",
+    "Cena": 1000.0
+  },
+  {
+    "Broj": 58,
+    "Status": "Slobodno",
+    "Tip": "VIP",
+    "Cena": 1000.0
+  },
+  {
+    "Broj": 59,
+    "Status": "Slobodno",
+    "Tip": "VIP",
+    "Cena": 1000.0
+  },
+  {
+    "Broj": 60,
+    "Status": "Slobodno",
+    "Tip": "VIP",
+    "Cena": 1000.0
+  },
+  {
+    "Broj": 61,
+    "Status": "Slobodno",
+    "Tip": "VIP",
+    "Cena": 1000.0
+  },
+  {
+    "Broj": 62,
+    "Status": "Slobodno",
+    "Tip": "VIP",
+    "Cena": 1000.0
+  },
+  {
+    "Broj": 63,
+    "Status": "Slobodno",
+    "Tip": "VIP",
+    "Cena": 1000.0
+  },
+  {
+    "Broj": 64,
+    "Status": "Slobodno",
+    "Tip": "VIP",
+    "Cena": 1000.0
+  },
+  {
+    "Broj": 65,
+    "Status": "Slobodno",
+    "Tip": "VIP",
+    "Cena": 1000.0
+  },
+  {
+    "Broj": 66,
+    "Status": "Slobodno",
+    "Tip": "VIP",
+    "Cena": 1000.0
+  }
+]
