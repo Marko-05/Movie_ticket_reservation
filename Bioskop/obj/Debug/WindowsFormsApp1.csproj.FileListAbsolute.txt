@@ -1,0 +1,81 @@
+C:\Users\Ucenik\Desktop\Marko Dj\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Ucenik\Desktop\Marko Dj\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Ucenik\Desktop\Marko Dj\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Ucenik\Desktop\Marko Dj\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Ucenik\Desktop\Marko Dj\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Ucenik\Desktop\Marko Dj\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Ucenik\Desktop\Marko Dj\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Ucenik\Desktop\Marko Dj\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\Desktop\Marko Dj\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Ucenik\Desktop\Marko Dj\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Ucenik\Desktop\Marko Dj\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Izbor.resources
+C:\Users\Private\Desktop\Marko Dj\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Private\Desktop\Marko Dj\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Private\Desktop\Marko Dj\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Private\Desktop\Marko Dj\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Private\Desktop\Marko Dj\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Private\Desktop\Marko Dj\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Izbor.resources
+C:\Users\Private\Desktop\Marko Dj\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Private\Desktop\Marko Dj\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Private\Desktop\Marko Dj\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Private\Desktop\Marko Dj\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Private\Desktop\Marko Dj\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Private\Desktop\Marko Dj\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Provera.resources
+C:\Users\Private\Desktop\,\faks\c#\Movie_ticket_reservation-main\Movie_ticket_reservation-main\Bioskop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Private\Desktop\,\faks\c#\Movie_ticket_reservation-main\Movie_ticket_reservation-main\Bioskop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Private\Desktop\,\faks\c#\Movie_ticket_reservation-main\Movie_ticket_reservation-main\Bioskop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Private\Desktop\,\faks\c#\Movie_ticket_reservation-main\Movie_ticket_reservation-main\Bioskop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Private\Desktop\,\faks\c#\Movie_ticket_reservation-main\Movie_ticket_reservation-main\Bioskop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+C:\Users\Private\Desktop\,\faks\c#\Movie_ticket_reservation-main\Movie_ticket_reservation-main\Bioskop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Private\Desktop\,\faks\c#\Movie_ticket_reservation-main\Movie_ticket_reservation-main\Bioskop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Izbor.resources
+C:\Users\Private\Desktop\,\faks\c#\Movie_ticket_reservation-main\Movie_ticket_reservation-main\Bioskop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Private\Desktop\,\faks\c#\Movie_ticket_reservation-main\Movie_ticket_reservation-main\Bioskop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Provera.resources
+C:\Users\Private\Desktop\,\faks\c#\Movie_ticket_reservation-main\Movie_ticket_reservation-main\Bioskop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Private\Desktop\,\faks\c#\Movie_ticket_reservation-main\Movie_ticket_reservation-main\Bioskop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Private\Desktop\,\faks\c#\Movie_ticket_reservation-main\Movie_ticket_reservation-main\Bioskop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Private\Desktop\,\faks\c#\Movie_ticket_reservation-main\Movie_ticket_reservation-main\Bioskop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Private\Desktop\,\faks\c#\PROJEKAT\Movie_ticket_reservation-main\Movie_ticket_reservation-main\Bioskop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Private\Desktop\,\faks\c#\PROJEKAT\Movie_ticket_reservation-main\Movie_ticket_reservation-main\Bioskop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Private\Desktop\,\faks\c#\PROJEKAT\Movie_ticket_reservation-main\Movie_ticket_reservation-main\Bioskop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Private\Desktop\,\faks\c#\PROJEKAT\Movie_ticket_reservation-main\Movie_ticket_reservation-main\Bioskop\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Private\Desktop\,\faks\c#\PROJEKAT\Movie_ticket_reservation-main\Movie_ticket_reservation-main\Bioskop\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Private\Desktop\,\faks\c#\PROJEKAT\Movie_ticket_reservation-main\Movie_ticket_reservation-main\Bioskop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Private\Desktop\,\faks\c#\PROJEKAT\Movie_ticket_reservation-main\Movie_ticket_reservation-main\Bioskop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+C:\Users\Private\Desktop\,\faks\c#\PROJEKAT\Movie_ticket_reservation-main\Movie_ticket_reservation-main\Bioskop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Izbor.resources
+C:\Users\Private\Desktop\,\faks\c#\PROJEKAT\Movie_ticket_reservation-main\Movie_ticket_reservation-main\Bioskop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Private\Desktop\,\faks\c#\PROJEKAT\Movie_ticket_reservation-main\Movie_ticket_reservation-main\Bioskop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Provera.resources
+C:\Users\Private\Desktop\,\faks\c#\PROJEKAT\Movie_ticket_reservation-main\Movie_ticket_reservation-main\Bioskop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Private\Desktop\,\faks\c#\PROJEKAT\Movie_ticket_reservation-main\Movie_ticket_reservation-main\Bioskop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Private\Desktop\,\faks\c#\PROJEKAT\Movie_ticket_reservation-main\Movie_ticket_reservation-main\Bioskop\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\Private\Desktop\,\faks\c#\PROJEKAT\Movie_ticket_reservation-main\Movie_ticket_reservation-main\Bioskop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Private\Desktop\,\faks\c#\PROJEKAT\Movie_ticket_reservation-main\Movie_ticket_reservation-main\Bioskop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Private\Desktop\,\faks\c#\PROJEKAT\Movie_ticket_reservation-main\Movie_ticket_reservation-main\Bioskop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UnosPodataka.resources
+C:\Users\Private\Desktop\,\faks\c#\PROJEKAT\Movie_ticket_reservation-main\Bioskop\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Private\Desktop\,\faks\c#\PROJEKAT\Movie_ticket_reservation-main\Bioskop\obj\Debug\WindowsFormsApp1.UnosPodataka.resources
+C:\Users\Private\Desktop\,\faks\c#\PROJEKAT\Movie_ticket_reservation-main\Bioskop\obj\Debug\WindowsFormsApp1.Izbor.resources
+C:\Users\Private\Desktop\,\faks\c#\PROJEKAT\Movie_ticket_reservation-main\Bioskop\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Private\Desktop\,\faks\c#\PROJEKAT\Movie_ticket_reservation-main\Bioskop\obj\Debug\WindowsFormsApp1.Provera.resources
+C:\Users\Private\Desktop\,\faks\c#\PROJEKAT\Movie_ticket_reservation-main\Bioskop\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Private\Desktop\,\faks\c#\PROJEKAT\Movie_ticket_reservation-main\Bioskop\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Private\Desktop\,\faks\c#\PROJEKAT\Movie_ticket_reservation-main\Bioskop\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Private\Desktop\,\faks\c#\PROJEKAT\Movie_ticket_reservation-main\Bioskop\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Private\Desktop\,\faks\c#\PROJEKAT\Movie_ticket_reservation-main\Bioskop\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Private\Desktop\,\faks\c#\PROJEKAT\Movie_ticket_reservation-main\Bioskop\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Private\Desktop\,\faks\c#\PROJEKAT\Movie_ticket_reservation-main\Bioskop\bin\Debug\System.Buffers.dll
+C:\Users\Private\Desktop\,\faks\c#\PROJEKAT\Movie_ticket_reservation-main\Bioskop\bin\Debug\System.Formats.Asn1.dll
+C:\Users\Private\Desktop\,\faks\c#\PROJEKAT\Movie_ticket_reservation-main\Bioskop\bin\Debug\System.Memory.dll
+C:\Users\Private\Desktop\,\faks\c#\PROJEKAT\Movie_ticket_reservation-main\Bioskop\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Private\Desktop\,\faks\c#\PROJEKAT\Movie_ticket_reservation-main\Bioskop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Private\Desktop\,\faks\c#\PROJEKAT\Movie_ticket_reservation-main\Bioskop\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Private\Desktop\,\faks\c#\PROJEKAT\Movie_ticket_reservation-main\Bioskop\bin\Debug\System.ValueTuple.dll
+C:\Users\Private\Desktop\,\faks\c#\PROJEKAT\Movie_ticket_reservation-main\Bioskop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Private\Desktop\,\faks\c#\PROJEKAT\Movie_ticket_reservation-main\Bioskop\bin\Debug\System.Buffers.xml
+C:\Users\Private\Desktop\,\faks\c#\PROJEKAT\Movie_ticket_reservation-main\Bioskop\bin\Debug\System.Formats.Asn1.xml
+C:\Users\Private\Desktop\,\faks\c#\PROJEKAT\Movie_ticket_reservation-main\Bioskop\bin\Debug\System.Memory.xml
+C:\Users\Private\Desktop\,\faks\c#\PROJEKAT\Movie_ticket_reservation-main\Bioskop\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Private\Desktop\,\faks\c#\PROJEKAT\Movie_ticket_reservation-main\Bioskop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Private\Desktop\,\faks\c#\PROJEKAT\Movie_ticket_reservation-main\Bioskop\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Private\Desktop\,\faks\c#\PROJEKAT\Movie_ticket_reservation-main\Bioskop\bin\Debug\System.ValueTuple.xml
+C:\Users\Private\Desktop\,\faks\c#\PROJEKAT\Movie_ticket_reservation-main\Bioskop\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\Private\Desktop\,\faks\c#\PROJEKAT\Movie_ticket_reservation-main\Bioskop\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Private\Desktop\,\faks\c#\PROJEKAT\Movie_ticket_reservation-main\Bioskop\obj\Debug\WindowsFormsApp1.pdb
